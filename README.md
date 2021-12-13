@@ -7,6 +7,7 @@
 - b. E-Mail => rayzen.ytbe@gmail.com
 - Visit my personal website [here!](https://bit.ly/zenxazura)
 
+![alt text](https://cdn.discordapp.com/attachments/905974080975544462/919857266117734430/ZENSKY.jpg)
 <!---
 RayZenYTBE/RayZenYTBE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
